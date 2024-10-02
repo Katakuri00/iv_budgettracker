@@ -6,3 +6,9 @@ Dos familias deciden tomar unas vacaciones en el extranjero, de manera que quier
 
 ## Referencias
 Esta idea ha sido extraida del conjunto de proyectos a resolver listados en [este repositorio](https://github.com/karan/Projects-Solutions/blob/master/README.md).
+
+## Documentación adicional
+Puede comprobar en la [documentación adicional](Docs/) las capturas de pantalla que muestran la realización de las configuraciones de GitHub solicitadas.
+* Creación de par de claves (pública/privada) y subida de [clave pública](Docs/Capturas/PubKey-GitHub.png) a GitHub.
+* Configuración de [correo electrónico](Docs/Capturas/Correo-GitHub.png).
+* Edición del [perfil de GitHub](Docs/Capturas/Perfil-GitHub.png).
