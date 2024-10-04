@@ -1,11 +1,8 @@
 # Budget tracker
 Este es un repositorio destinado al desarrollo de la asignatura de Infraestructura Virtual (Especialidad de Tecnologías de la Información) del Grado en Ingeniería Informática de la Universidad de Granada.
 
-## Problema a resolver
-Dos familias deciden tomar unas vacaciones en el extranjero, de manera que quieren disponer de un fondo común para los gastos conjuntos del viaje como comidas o excursiones. El objetivo es gestionar el dinero, controlando los pagos realizados, realizando nuevos ingresos en caso de que se agoten los fondos disponibles, distribuyendo la cantidad restante al final del viaje, y calculando las ganacias, o pérdidas, generadas en el fondo durante un periodo de tiempo determinado.
-
-## Referencias
-Esta idea ha sido extraida del conjunto de proyectos a resolver listados en [este repositorio](https://github.com/karan/Projects-Solutions/blob/master/README.md).
+## Descripción del problema
+En los últimos años, el crecimiento del precio de la vivienda y la cesta de la compra han desajustado las cuentas de muchos hogares españoles donde los sueldos no alcanzan a cubrir estos gastos, especialmente entre los jóvenes, siendo la edad media de emancipación en España de 30,4 años. Con objeto de reducir gastos, ir al supermercado se ha convertido en el campo de estudio de muchas personas que comparan precios en búsqueda de la opción más económica, provocando en ocasiones el sacrificio de algunos alimentos esenciales en una dieta equilibrada y, en definitiva, menos saludable.
 
 ## Documentación adicional
 Puede comprobar en la [documentación adicional](Docs/) las capturas de pantalla que muestran la realización de las configuraciones de GitHub solicitadas.
