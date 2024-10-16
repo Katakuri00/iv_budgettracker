@@ -2,8 +2,7 @@
 Este es un repositorio destinado al desarrollo de la asignatura de Infraestructura Virtual (Especialidad de Tecnologías de la Información) del Grado en Ingeniería Informática de la Universidad de Granada.
 
 ## Descripción del problema
-Una empresa de construcción y mantenimiento busca organizar los datos del historial de presupuestos de la empresa almacenados en una serie de documentos de texto para extraer la información sobre el tiempo, los materiales empleados, y los ingresos generados en cada proyecto de obra para ponerlo a disposición de los miembros de la empresa de forma más accesible y efectiva.
-Se trata de un problema de extracción de información de una fuente de datos no estructurada en la que el cliente busca dar valor a los datos almacenados para mejorar la gestión y organización de la empresa.
+Una pequeña empresa de construcción y mantenimiento está encontrando dificultades a la hora de gestionar el almacenamiento del utillaje para la obra. El encarecimiento del alquiler y los materiales requiere un mayor esfuerzo para determinar el conjunto de materiales necesario para cada proyecto de obra con el objetivo de minimizar el material sobrante y, en definitiva, reducir costes. La empresa dispone de un historial de presupuestos con las estimaciones de materiales y costes de cada proyecto de obra realizado, así como las facturas, almacenados en [documentos de texto](Docs/presupuesto.docx) como el que se encuentra en este repositorio. El cliente quiere analizar la información contenida en estos documentos para optimizar la selección de materiales de obras futuras y, con ello, optimizar el rendimiento de la empresa.
 
 ## Documentación adicional
 Puede comprobar en la [documentación adicional](Docs/) las capturas de pantalla que muestran la realización de las configuraciones de GitHub solicitadas.
