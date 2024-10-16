@@ -2,7 +2,8 @@
 Este es un repositorio destinado al desarrollo de la asignatura de Infraestructura Virtual (Especialidad de Tecnologías de la Información) del Grado en Ingeniería Informática de la Universidad de Granada.
 
 ## Descripción del problema
-En los últimos años, el crecimiento del precio de la vivienda y la cesta de la compra han desajustado las cuentas de muchos hogares españoles donde los sueldos no alcanzan a cubrir estos gastos, especialmente entre los jóvenes, siendo la edad media de emancipación en España de 30,4 años. Con objeto de reducir gastos, ir al supermercado se ha convertido en el campo de estudio de muchas personas que comparan precios en búsqueda de la opción más económica, provocando en ocasiones el sacrificio de algunos alimentos esenciales en una dieta equilibrada y, en definitiva, menos saludable.
+Una empresa de construcción y mantenimiento busca organizar los datos del historial de presupuestos de la empresa almacenados en una serie de documentos de texto para extraer la información sobre el tiempo, los materiales empleados, y los ingresos generados en cada proyecto de obra para ponerlo a disposición de los miembros de la empresa de forma más accesible y efectiva.
+Se trata de un problema de extracción de información de una fuente de datos no estructurada en la que el cliente busca dar valor a los datos almacenados para mejorar la gestión y organización de la empresa.
 
 ## Documentación adicional
 Puede comprobar en la [documentación adicional](Docs/) las capturas de pantalla que muestran la realización de las configuraciones de GitHub solicitadas.
